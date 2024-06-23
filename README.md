@@ -25,6 +25,9 @@ _This is italic text_
 
 Unordered
 + Create a list by starting a line with "+", "-" or "*"
+  + sldkl
+  - dskld
+  * skkdj
 + Sub-lists are made by indenting 2 spaces
 
 Ordered
